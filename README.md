@@ -12,5 +12,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigosaavedra140&show_icons=true&locale=en&layout=compact" alt="rodrigosaavedra140" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigosaavedra140&show_icons=true&locale=en" alt="rodrigosaavedra140" background-color="black" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigosaavedra140&show_icons=true&locale=en" alt="rodrigosaavedra140" /></p>
 
