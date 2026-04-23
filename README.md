@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Rodrigo&fontSize=50&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Rodrigo&fontSize=45&animation=fadeIn" alt="Header" />
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Rodrigo%20Saavedra&fontSize=50&animation=fadeIn" alt="Header" />
 </div>
 
 <h3 align="center">Computing Analyst Student @ UNRC</h3>
