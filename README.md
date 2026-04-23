@@ -9,9 +9,10 @@
   <a href="https://github.com/rodrigoSaavedra140" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="25" /></a>
 </p>
 
+
 <br>
 
-### 👨‍💻 About Me
+### <img src="https://i.pinimg.com/736x/8e/8a/03/8e8a032a495471c4fe8ea1be8c7f7e64.jpg" alt="Praise the Sun!" height="30" /> About Me 
 
 - 🎓 Studying **Analista en Computación** at Universidad Nacional de Río Cuarto.
 - 🧠 Passionate about **software architecture, algorithmic logic, and complex data structures**.
