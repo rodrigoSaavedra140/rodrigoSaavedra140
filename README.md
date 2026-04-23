@@ -1,15 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient_3b82f6_22d3ee&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Rodrigo&fontSize=50&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Rodrigo&fontSize=50&animation=fadeIn" alt="Header" />
 </div>
 
 <h3 align="center">Computing Analyst Student @ UNRC</h3>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-rodrigo-saavedra-diaz)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigoSaavedra140)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/hugo-rodrigo-saavedra-diaz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="hugo rodrigo saavedra diaz" height="25" /></a>
+  <a href="https://github.com/rodrigoSaavedra140" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="25" /></a>
+</p>
 
 <br>
 
@@ -47,7 +45,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigoSaavedra140&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rodrigo's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoSaavedra140&theme=tokyonight&hide_border=true&background=0D1117" alt="Rodrigo's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoSaavedra140&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rodrigo's GitHub Streak" />
 </div>
 
 <br><br>
